@@ -1,10 +1,10 @@
 {
   "greeting": "Hi", 
   "name": "Kishore Anna",
-  "greetingText": "(Okay, we know it's not Italian, but it sounds kinda classy, right?)",
+  "greetingText": "(Okay, who's going to make our terrible jokes now?)",
   "wishText": "May your next adventure be filled with bad jokes, questionable puns, and laughter that echoes through the halls!",
   "imagePath": "img/kishore.png", 
-  "image2Path": "img/kishore.png",  
+  "image2Path": "img/kishoree.png",  
   "text1": "We were gonna write a sappy farewell...",
   "textInChatBox": "Kishore Anna, we'll miss your contagious energy, your terrible... I mean TERRIFIC dance moves, and...",
   "sendButtonLabel": "Send",
